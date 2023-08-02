@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KAU_Course_Registration.props" />
+</Project>

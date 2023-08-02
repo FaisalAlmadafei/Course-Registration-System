@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KAU_Course_Registration", "KAU_Course_Registration\KAU_Course_Registration.csproj", "{8C975E10-3745-457C-8C9C-CDF2A4F9E452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C975E10-3745-457C-8C9C-CDF2A4F9E452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C975E10-3745-457C-8C9C-CDF2A4F9E452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C975E10-3745-457C-8C9C-CDF2A4F9E452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C975E10-3745-457C-8C9C-CDF2A4F9E452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
